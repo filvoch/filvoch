@@ -14,16 +14,14 @@
         <a href="https://html5.org/" target="_blank"> <img src="assets/html.png" alt="HTML" width="40" height="40"/> </a> 
         <a href="https://www.w3schools.com/cssref/" target="_blank"> <img src="assets/css.png" alt="CSS" width="40" height="40"/> </a> 
     </details>
-    <br/>
-<details>	
-  <summary><b>⚡ Learning - Tech/Software Stack ⚡</b></summary>
-        <a href="https://nodejs.org/en/" target="_blank"> <img src="assets/nodejs.png" alt="Node.JS" width="40" height="40"/> </a>  
-        <a href="https://www.php.net/" target="_blank"> <img src="assets/php.png" alt="PHP" width="40" height="40"/> </a> 
-        <a href="https://vuejs.org/" target="_blank"> <img src="assets/vuejs.png" alt="Vue.JS" width="40" height="40"/> </a> 
-        <a href="https://pt-br.reactjs.org/" target="_blank"> <img src="assets/reactjs.png" alt="React.JS" width="40" height="40"/> </a>
+    <details>	
+        <summary><b>⚡ Learning - Tech/Software Stack ⚡</b></summary>
+            <a href="https://nodejs.org/en/" target="_blank"> <img src="assets/nodejs.png" alt="Node.JS" width="40" height="40"/> </a>  
+            <a href="https://www.php.net/" target="_blank"> <img src="assets/php.png" alt="PHP" width="40" height="40"/> </a> 
+            <a href="https://vuejs.org/" target="_blank"> <img src="assets/vuejs.png" alt="Vue.JS" width="40" height="40"/> </a> 
+            <a href="https://pt-br.reactjs.org/" target="_blank"> <img src="assets/reactjs.png" alt="React.JS" width="40" height="40"/> </a>
+    </details>
 </details>
-<br/><br/>
-
 <p align="center">
     <a href="https://github.com/filvoch">
         <img height="160em" src="https://github-readme-stats.vercel.app/api?username=filvoch&theme=great-gatsby&show_icons=true&include_all_commits=true&count_private=true" />
@@ -40,7 +38,6 @@
         <a href=""><img title="Twitter" src="https://raw.githubusercontent.com/filvoch/filvoch/master/assets/twitter.svg"/></a>
     </p>
 </p>
-
 <h3 align="center">Check out my work</h3>
 <p align="center">
     <a href="https://github.com/filvoch"><img title="GitHub" src="https://raw.githubusercontent.com/filvoch/filvoch/master/assets/github.svg"/></a>&nbsp;&nbsp;
