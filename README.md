@@ -4,7 +4,7 @@
 
 - A **Web development** who loves exploring new technologies, building small projects, innovating and tinkering with stuff.
 - **Front-End Developer** by day, _Indie Developer_ by night (well, sometimes :smile:) .
-- Experimenting with the **Back-End** as well and currently working on a React/Next.js
+- Experimenting with the **Back-End** as well and currently learning - React/Next.js
 - Have a keen interest in designing.
 
 <hr/>
