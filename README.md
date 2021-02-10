@@ -1,6 +1,6 @@
 ![filvoch](https://i.imgur.com/MDzqmJK.jpg "filvoch")
 
-<p align="center">## About Me</p>
+## About Me
 
 - A **Web development** who loves exploring new technologies, building small projects, innovating and tinkering with stuff.
 - **Front-End Developer** by day, _Indie Developer_ by night (well, sometimes :smile:) .
