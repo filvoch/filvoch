@@ -49,8 +49,8 @@
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/filvoch/"><img title="LinkedIn" src="https://raw.githubusercontent.com/filvoch/filvoch/master/assets/linkedin.svg"/></a>&nbsp;&nbsp;
-<a href="https://twitter.com/filvoch"><img title="Twitter" src="https://raw.githubusercontent.com/filvoch/filvoch/master/assets/twitter.svg"/></a>
+<a href="https://www.linkedin.com/in/guilherme-borba-75048b127/"><img title="LinkedIn" src="https://raw.githubusercontent.com/filvoch/filvoch/master/assets/linkedin.svg"/></a>&nbsp;&nbsp;
+<a href=""><img title="Twitter" src="https://raw.githubusercontent.com/filvoch/filvoch/master/assets/twitter.svg"/></a>
 </p>
 
 <h3 align="center">Check out my work</h3>
