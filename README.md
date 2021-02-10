@@ -9,7 +9,7 @@
 
 
 ## Tech/Software Stack
-<p align="center">
+
 ![Java](https://img.shields.io/static/v1?style=for-the-badge&logo=java&message=Java&label=&color=007396&labelColor=000000)
 ![Node.js](https://img.shields.io/static/v1?style=for-the-badge&logo=node.js&message=Node.js&label=&color=339933&labelColor=000000)
 ![PHP](https://img.shields.io/static/v1?style=for-the-badge&logo=php&message=PHP&label=&color=777BB4&labelColor=000000)
@@ -32,7 +32,7 @@
 ![Photoshop](https://img.shields.io/static/v1?style=for-the-badge&logo=adobe-photoshop&message=Photoshop&label=&color=31A8FF&labelColor=000000)
 ![GIMP](https://img.shields.io/static/v1?style=for-the-badge&logo=gimp&message=GIMP&label=&color=5C5543&labelColor=000000)
 ![Illustrator](https://img.shields.io/static/v1?style=for-the-badge&logo=adobe-illustrator&message=Illustrator&label=&color=FF9A00&labelColor=000000)
-<br/><br/></p>
+<br/><br/>
 
 <p align="center">
 <a href="https://github.com/filvoch">
