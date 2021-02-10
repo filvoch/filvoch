@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**filvoch/filvoch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ![filvoch](https://i.imgur.com/MDzqmJK.jpg "filvoch")
 
 ## About Me
