@@ -14,7 +14,7 @@
         <a href="https://html5.org/" target="_blank"> <img src="assets/html.png" alt="HTML" width="40" height="40"/> </a> 
         <a href="https://www.w3schools.com/cssref/" target="_blank"> <img src="assets/css.png" alt="CSS" width="40" height="40"/> </a> 
         <a href="https://getbootstrap.com/" target="_blank"> <img src="assets/bootstrap.png" alt="Bootstrap" width="40" height="40"/> </a> 
-        <a href="https://www.mysql.com/" target="_blank"> <img src="assets/mysql.jpg" alt="MySQL" width="40" height="40"/> </a> 
+        <a href="https://www.mysql.com/" target="_blank"> <img src="assets/mysql.png" alt="MySQL" width="40" height="40"/> </a> 
         <a href="https://www.postgresql.org/" target="_blank"> <img src="assets/postgresql.png" alt="PostgreSQL" width="40" height="40"/> </a> 
     </details>
     <details>	
