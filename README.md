@@ -7,6 +7,7 @@
 - Experimenting with the **Back-End** as well and currently working on a React/Next.js
 - Have a keen interest in designing.
 
+<hr/>
 
 ## Tech/Software Stack
 
