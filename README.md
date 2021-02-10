@@ -7,7 +7,7 @@
 - Experimenting with the **Back-End** as well and currently working on a React/Next.js
 - Have a keen interest in designing.
 
-
+<p align="center">
 ## Tech/Software Stack
 
 ![Java](https://img.shields.io/static/v1?style=for-the-badge&logo=java&message=Java&label=&color=007396&labelColor=000000)
@@ -32,7 +32,7 @@
 ![Photoshop](https://img.shields.io/static/v1?style=for-the-badge&logo=adobe-photoshop&message=Photoshop&label=&color=31A8FF&labelColor=000000)
 ![GIMP](https://img.shields.io/static/v1?style=for-the-badge&logo=gimp&message=GIMP&label=&color=5C5543&labelColor=000000)
 ![Illustrator](https://img.shields.io/static/v1?style=for-the-badge&logo=adobe-illustrator&message=Illustrator&label=&color=FF9A00&labelColor=000000)
-<br/><br/>
+<br/><br/></p>
 
 <p align="center">
 <a href="https://github.com/filvoch">
